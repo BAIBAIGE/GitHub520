@@ -1,3 +1,6 @@
+## 复制下面的内容
+
+```bash
 # GitHub520 Host Start
 140.82.112.25                 alive.github.com
 140.82.112.6                  api.github.com
@@ -43,3 +46,7 @@
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
+
+```
+
+该内容会自动定时更新， 数据更新时间：2023-02-11T12:11:54+08:00
